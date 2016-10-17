@@ -1,0 +1,9 @@
+{
+  "name": "example-ddp-client",
+  "dependencies": {},
+  "globalDependencies": {
+    "ejson": "registry:dt/ejson#2.1.2+20161014044130",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160602141504",
+    "websocket": "registry:dt/websocket#0.0.0+20160930124123"
+  }
+}

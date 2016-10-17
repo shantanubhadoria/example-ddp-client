@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/0ffa9c0f32fba32f61a2516dd2438fad537ba577/ejson/ejson.d.ts",
+    "raw": "registry:dt/ejson#2.1.2+20161014044130",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/0ffa9c0f32fba32f61a2516dd2438fad537ba577/ejson/ejson.d.ts"
+  }
+}
